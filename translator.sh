@@ -6,7 +6,7 @@ dirs=( az ml sq mt am mk en mi ar mr hy mhr af mn eu de ba ne be no bn pa my pap
 input="$1"
 locale="$2"
 getFormattedInput=${input//[ ]/+}
-#Key=insert API Key here
+Key=trnsl.1.1.20190909T115250Z.f84f934af29d6b9b.20304b2aa378628b929a65872ab47ab8c85f024c
 size=${#dirs[@]}
 index=$(($RANDOM % $size))
 if [ -z "$locale" ]
