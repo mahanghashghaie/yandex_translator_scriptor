@@ -10,7 +10,7 @@ Syntax: sh translator.sh `<input>` (mandatory) `<sprache>` (optional)
 
 ACHTUNG: Es muss vorher ein API Key unter https://translate.yandex.com/developers/keys erstellt werden und im Skript unter Key eingefügt werden.
 Der eingetragene Key funktioniert nicht
-
+![](gifs/yandex_generate_api_key.gif)
 PS: Ihr benötigt xclip, bzw ersetzt xclip im Skript mit eurem Clipboard Manager der Wahl, falls ihr einen anderen habt
 
 Unten seht ihr ein gif wie das aussieht in Aktion
